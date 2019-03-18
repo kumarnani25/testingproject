@@ -9,6 +9,10 @@ public class test231 {
 	public void test()
 	{
 		System.out.println("testing");
+		
+		System.out.println("testing");
+		
+		System.out.println("testing");
 	}
 
 }
