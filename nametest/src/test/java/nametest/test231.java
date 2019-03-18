@@ -10,9 +10,7 @@ public class test231 {
 	{
 		System.out.println("testing");
 		
-		System.out.println("testing");
 		
-		System.out.println("testing");
 	}
 
 }
